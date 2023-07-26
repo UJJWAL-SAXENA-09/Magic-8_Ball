@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EB178EB0-A1F7-417C-8E39-54348FBB9BB2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BE8377F-BC23-4E89-9597-0E60FE7D55F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MagicEightBall/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "3BE8377F-BC23-4E89-9597-0E60FE7D55F2 - b69de13fe1fe64e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicEightBall.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MagicEightBall.ViewController"
+                  moduleName = "MagicEightBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ujjwal_saxena/Desktop/App%20try%201/MagicEightBall/MagicEightBall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "3BE8377F-BC23-4E89-9597-0E60FE7D55F2 - 9f82082349fa45f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicEightBall.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MagicEightBall.ViewController"
+                  moduleName = "MagicEightBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ujjwal_saxena/Desktop/App%20try%201/MagicEightBall/MagicEightBall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "3BE8377F-BC23-4E89-9597-0E60FE7D55F2 - 627d0c5cadda57ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicEightBall.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MagicEightBall.ViewController&gt;"
+                  moduleName = "MagicEightBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ujjwal_saxena/Desktop/App%20try%201/MagicEightBall/MagicEightBall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "3BE8377F-BC23-4E89-9597-0E60FE7D55F2 - 8812ead1e3267035"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicEightBall.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MagicEightBall.ViewController&gt;"
+                  moduleName = "MagicEightBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ujjwal_saxena/Desktop/App%20try%201/MagicEightBall/MagicEightBall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3BE8377F-BC23-4E89-9597-0E60FE7D55F2 - d450c143acd3d5d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicEightBall.ViewController.__deallocating_deinit"
+                  moduleName = "MagicEightBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ujjwal_saxena/Desktop/App%20try%201/MagicEightBall/MagicEightBall/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
